@@ -20,7 +20,7 @@ const Nav = () => {
     <nav className="container">
       <ul>
         <li>
-          <strong>Brand</strong>
+          <strong>Context</strong>
         </li>
       </ul>
       <ul>
